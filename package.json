@@ -1,6 +1,6 @@
 {
     "name": "portfolio-react",
-    "homepage": "",
+    "homepage": "https://portfolioen.herokuapp.com/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
